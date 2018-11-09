@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Cinema Kity",
-    "currentPage": "VILOES.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 21,
+    "uniqCompNum": 17,
     "versionPublish": "4.8.6",
     "theme": {
       "name": "mobirise4",
@@ -71,7 +71,8 @@
     "gdpr": "",
     "siteUrl": "undefined",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n/\n/assets\n/index.html\n/all\n",
-    "robotsSwitcher": "on"
+    "robotsSwitcher": "on",
+    "snow": ""
   },
   "pages": {
     "index.html": {

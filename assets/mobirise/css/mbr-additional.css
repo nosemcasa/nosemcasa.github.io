@@ -21,10 +21,10 @@ body {
 }
 .display-1 {
   font-family: 'Poppins', sans-serif;
-  font-size: 3.4rem;
+  font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.44rem;
+  font-size: 6.8rem;
 }
 .display-2 {
   font-family: 'Poppins', sans-serif;
@@ -61,9 +61,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.72rem;
-    font-size: calc( 1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.4rem;
+    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1770,32 +1770,15 @@ body {
 .cid-qSIEGjdqO9 .dropdown-item:hover {
   color: #ff0030 !important;
 }
-.cid-rgSt7pFYsX {
-  background-image: url("../../../assets/images/av-ultron-1920x1200.jpg");
+.cid-rhCn8eD43D {
+  background-image: url("../../../assets/images/antman-wall-1920x1080.jpg");
 }
-.cid-rgSt7pFYsX .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-  background: linear-gradient(#8170cc, #1a1e40);
-  border: none;
+.cid-rhCn8eD43D DIV {
+  color: #ffffff;
 }
-.cid-rgSt7pFYsX .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-rgSt7pFYsX .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-rgSt7pFYsX .mbr-text,
-.cid-rgSt7pFYsX .mbr-section-btn B {
+.cid-rhCn8eD43D .mbr-text,
+.cid-rhCn8eD43D .mbr-section-btn {
   color: #bcb1ed;
-}
-.cid-rgSt7pFYsX .mbr-text,
-.cid-rgSt7pFYsX .mbr-section-btn {
-  color: #e4dffc;
 }
 .cid-rgSvQpf0ye {
   padding-top: 30px;
@@ -1991,6 +1974,36 @@ body {
 }
 .cid-r5WxXLXzqP .mbr-section-title {
   color: #ffffff;
+}
+.cid-rhCmbiot1Q {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rhCmbiot1Q .title {
+  margin-bottom: 2rem;
+}
+.cid-rhCmbiot1Q .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rhCmbiot1Q a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rhCmbiot1Q a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rhCmbiot1Q .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-rhCmbiot1Q .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-rhCmbiot1Q H2 {
+  color: #8170cc;
 }
 .cid-rgk454r5Ec {
   padding-top: 90px;

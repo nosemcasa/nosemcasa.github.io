@@ -144,7 +144,7 @@ body {
   background-color: #9b64d2 !important;
 }
 .bg-danger {
-  background-color: #191725 !important;
+  background-color: #cf0d0d !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -248,8 +248,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #191725 !important;
-  border-color: #191725 !important;
+  background-color: #cf0d0d !important;
+  border-color: #cf0d0d !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -257,14 +257,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #000000 !important;
-  border-color: #000000 !important;
+  background-color: #870808 !important;
+  border-color: #870808 !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #000000 !important;
-  border-color: #000000 !important;
+  background-color: #870808 !important;
+  border-color: #870808 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -412,22 +412,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #000000;
-  color: #000000;
+  border-color: #6f0707;
+  color: #6f0707;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #191725;
-  border-color: #191725;
+  background-color: #cf0d0d;
+  border-color: #cf0d0d;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #191725 !important;
-  border-color: #191725 !important;
+  background-color: #cf0d0d !important;
+  border-color: #cf0d0d !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -479,7 +479,7 @@ body {
   color: #9b64d2 !important;
 }
 .text-danger {
-  color: #191725 !important;
+  color: #cf0d0d !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -509,7 +509,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #000000 !important;
+  color: #6f0707 !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -529,7 +529,7 @@ a.text-black:focus {
   background-color: #9b64d2;
 }
 .alert-danger {
-  background-color: #191725;
+  background-color: #cf0d0d;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -585,7 +585,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #c9c6db;
+  color: #faaeae;
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
@@ -1771,7 +1771,7 @@ body {
   color: #ff0030 !important;
 }
 .cid-rhCn8eD43D {
-  background-image: url("../../../assets/images/civil-war-2000x1012.jpg");
+  background-image: url("../../../assets/images/captain-marvel-2-1920x1080.jpg");
 }
 .cid-rhCn8eD43D DIV {
   color: #ffffff;
@@ -1783,10 +1783,16 @@ body {
 .cid-rgSvQpf0ye {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #201e40;
+  background-color: #4b000e;
 }
 .cid-rgSvQpf0ye .media-container-row .mbr-text {
-  color: #847fda;
+  color: #ffffff;
+}
+.cid-rgSvQpf0ye .media-container-row .mbr-text U {
+  color: #ffffff;
+}
+.cid-rgSvQpf0ye .media-container-row .mbr-text B {
+  color: #ffffff;
 }
 .cid-rdtXutwvP7 {
   padding-top: 75px;
@@ -1809,7 +1815,7 @@ body {
   }
 }
 .cid-rdtXutwvP7 B {
-  color: #c00a2c;
+  color: #cf0d0d;
 }
 .cid-rdtXutwvP7 .mbr-text,
 .cid-rdtXutwvP7 .mbr-section-btn I {
@@ -1823,6 +1829,9 @@ body {
 }
 .cid-rdtXutwvP7 .mbr-text,
 .cid-rdtXutwvP7 .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rdtXutwvP7 I {
   color: #ffffff;
 }
 .cid-r67FkdmCxn {
@@ -1842,14 +1851,14 @@ body {
 .cid-r7G3OIuQI6 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: url("../../../assets/images/captain-marvel-2019-wallpaper-1920x1080-by-sachso74-dcn5vty-pre-1192x670.jpg");
+  background: url("../../../assets/images/21-avengers-endgame-1688x2500.jpg");
 }
 .cid-r7G3OIuQI6 .mbr-section-subtitle {
   color: #262b50;
   font-weight: 300;
 }
 .cid-r7G3OIuQI6 .number-wrap {
-  color: #151830;
+  color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1868,7 +1877,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #262b50;
+  color: #ffffff;
 }
 .cid-r7G3OIuQI6 .period {
   display: block;
@@ -1890,7 +1899,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #262b50;
+  color: #ffffff;
 }
 .cid-r7G3OIuQI6 .countdown-cont {
   max-width: 700px;
@@ -1930,10 +1939,10 @@ body {
   color: #fbc300;
 }
 .cid-r7G3OIuQI6 DIV {
-  color: #151830;
+  color: #ffffff;
 }
 .cid-r7G3OIuQI6 .mbr-section-subtitle B {
-  color: #151830;
+  color: #ffffff;
 }
 .cid-rgjWAnWwWZ {
   padding-top: 105px;
@@ -6258,4 +6267,133 @@ body {
 }
 .cid-rdfvFe8Wqc {
   background-image: url("../../../assets/images/asgard1-thor-1920x814.png");
+}
+.cid-rk4Qa1lpqW {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-rk4Qa1lpqW .line {
+  background-color: #cf0d0d;
+  color: #cf0d0d;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rk4Qa1lpqW .section-text {
+  padding: 2rem 0;
+  color: #767676;
+}
+.cid-rk4Qa1lpqW .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rk4Qa1lpqW .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rk4QOgriUA {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-rk4QOgriUA .line {
+  background-color: #cf0d0d;
+  color: #cf0d0d;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rk4QOgriUA .section-text {
+  padding: 2rem 0;
+  color: #767676;
+}
+.cid-rk4QOgriUA .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rk4QOgriUA .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rk4QIdZgfq {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-rk4QIdZgfq .line {
+  background-color: #cf0d0d;
+  color: #cf0d0d;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rk4QIdZgfq .section-text {
+  padding: 2rem 0;
+  color: #767676;
+}
+.cid-rk4QIdZgfq .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rk4QIdZgfq .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rk4RS3pGGm {
+  background: #ffffff;
+}
+.cid-rk4RS3pGGm .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rk4RS3pGGm .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rk4ToZIo7Q {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rk4ToZIo7Q .line {
+  background-color: #cf0d0d;
+  color: #cf0d0d;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rk4ToZIo7Q .section-text {
+  padding: 2rem 0;
+  color: #767676;
+}
+.cid-rk4ToZIo7Q .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rk4ToZIo7Q .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rk4PJFsA7F {
+  background: #ffffff;
+  padding-top: 120px;
+  padding-bottom: 45px;
+}
+.cid-rk4PJFsA7F .image-block {
+  margin: auto;
+}
+.cid-rk4PJFsA7F figcaption {
+  position: relative;
+}
+.cid-rk4PJFsA7F figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rk4PJFsA7F .image-block {
+    width: 100% !important;
+  }
 }

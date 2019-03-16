@@ -581,7 +581,7 @@
               }
             },
             "B": {
-              "color": "#cf0d0d"
+              "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn I": {
               "color": "#191725"
@@ -596,6 +596,9 @@
               "color": "#ffffff"
             },
             "I": {
+              "color": "#847fda"
+            },
+            "FONT": {
               "color": "#ffffff"
             }
           },

@@ -6898,7 +6898,7 @@ body {
   color: #ff0030 !important;
 }
 .cid-rdfvFe8Wqc {
-  background-image: url("../../../assets/images/asgard1-thor-1920x814.png");
+  background-image: url("../../../assets/images/thor-3-ragnarok-hela-villain-1000x500.jpg");
 }
 .cid-rmCmHps5NU {
   padding-top: 120px;
@@ -6944,6 +6944,39 @@ body {
   .cid-rmCmkkXCpw .video-block {
     width: 100% !important;
   }
+}
+.cid-rmCvb9gmB9 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #000000;
+}
+.cid-rmCvb9gmB9 .line {
+  background-color: #248739;
+  color: #248739;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rmCvb9gmB9 .section-text {
+  padding: 2rem 0;
+  color: #767676;
+}
+.cid-rmCvb9gmB9 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rmCvb9gmB9 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rmCvb9gmB9 .section-text B {
+  color: #248739;
+}
+.cid-rmCvb9gmB9 .section-text DIV {
+  color: #248739;
+}
+.cid-rmCvb9gmB9 .section-text FONT {
+  color: #248739;
 }
 .cid-rk4QIdZgfq {
   padding-top: 120px;

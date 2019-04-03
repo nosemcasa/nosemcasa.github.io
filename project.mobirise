@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cinema Kity v2",
-    "currentPage": "hela.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 31,
     "versionPublish": "4.9.6",
@@ -31,13 +31,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#36a14d",
         "#000000",
         "#248739",
         "#7bdeff",
         "#1a1e40",
         "#48447e",
-        "#bcb1ed",
-        "#8170cc"
+        "#bcb1ed"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -7023,17 +7023,17 @@
               }
             },
             ".section-text B": {
-              "color": "#248739"
+              "color": "#36a14d"
             },
             ".section-text DIV": {
               "color": "#248739"
             },
             ".section-text FONT": {
-              "color": "#248739"
+              "color": "#36a14d"
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#248739\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><font color=\"#248739\">não basta ser bela</font><br><font color=\"#248739\">haja alguém que me acuda</font><br><font color=\"#248739\">pois para chegar a Hela</font><br><font color=\"#248739\">é melhor <b>pedir ajuda</b>...</font><br><br><font color=\"#248739\">(vê o vídeo)</font></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#248739\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><font color=\"#248739\">não basta ser bela</font><br><font color=\"#248739\">haja alguém que te acuda</font><br><font color=\"#248739\">pois para chegar a Hela</font><br><font color=\"#248739\">é melhor <b>pedires ajuda</b>...</font><br><br><font color=\"#248739\">(vê o vídeo)</font></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-s",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -7107,11 +7107,11 @@
               "color": "#248739"
             },
             ".section-text FONT": {
-              "color": "#248739"
+              "color": "#36a14d"
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"72\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#248739\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><font color=\"#248739\">um vídeo que irmãos junta,</font><br><font color=\"#248739\">e dá vontade de rir</font><br><font color=\"#248739\">mas o meu Thio aqui pergunta...</font><br><font color=\"#248739\">\"já sabes o que pedir?\"</font></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"72\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#248739\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><font color=\"#248739\">um vídeo que irmãos junta,</font><br><font color=\"#248739\">e dá vontade de rir</font><br><font color=\"#248739\">mas o teu Thio aqui pergunta,</font><br><font color=\"#248739\">\"já sabes o que pedir?\"</font></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-u",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -7135,7 +7135,7 @@
             },
             ".section-text": {
               "padding": "2rem 0",
-              "color": "#248739"
+              "color": "#36a14d"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -7219,7 +7219,7 @@
               "color": "#248739"
             },
             ".section-text DIV": {
-              "color": "#248739"
+              "color": "#36a14d"
             },
             ".section-text FONT": {
               "color": "#248739"
@@ -7261,7 +7261,7 @@
               }
             },
             ".section-text B": {
-              "color": "#248739"
+              "color": "#36a14d"
             }
           },
           "_name": "content9",
